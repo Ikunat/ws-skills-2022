@@ -6,7 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️
+
+* Deux intérets principaux :
+  - Prévenir les erreurs en Dev grâce au typage statique, afin d'avoir du code clean en Prod une fois que celui-ci a été compilé.
+  - Les "Quick fixes" ;)
+
 - les types de bases ❌ / ✔️
 - comment et pourquoi étendre une interface ❌ / ✔️
 - les classes et les decorators ❌ / ✔️
