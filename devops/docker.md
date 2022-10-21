@@ -17,7 +17,7 @@ Pour vérifier si l'image a bien été montée : "docker image ls".
 Une image contient tous les élèments nécessaires à l'exécution de l'application:
 
     - le système d'exploitation
-    - l'environnement d'exécution (ici Node)
+    - l'environnement d'exécution
     - les sources de l'application
 
 
